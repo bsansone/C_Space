@@ -76,3 +76,51 @@ The time is: Sun May 25 23:43:04 2008
  asciiPos: 36,13
 The time is: Sun May 25 23:43:04 2008
  asciiPos: 36,12
+The time is: Wed Feb 10 11:19:11 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:22:33 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:33:03 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:36:50 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:39:12 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:44:22 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:48:08 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:48:24 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:48:40 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:49:08 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:50:16 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:50:48 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:52:02 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:54:12 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:54:38 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:54:52 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:55:01 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:55:27 2016
+ asciiPos: 8
+The time is: Wed Feb 10 11:57:59 2016
+ asciiPos: 8
+The time is: Wed Feb 10 12:00:01 2016
+ asciiPos: 8
+The time is: Wed Feb 10 12:00:29 2016
+ asciiPos: 8
+The time is: Wed Feb 10 12:00:51 2016
+ asciiPos: 8
+The time is: Wed Feb 10 12:01:07 2016
+ asciiPos: 8
+The time is: Wed Feb 10 12:01:26 2016
+ asciiPos: 8
